@@ -1,1 +1,1 @@
-My first project readme. To be populated later.
+My ALX SE project Readme
